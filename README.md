@@ -20,6 +20,8 @@ The data sheets aren't super helpful in keeping track of the part top and bottom
 This then translates to the following loading diagram for pick and place (red emphasis mine):
 ![](images/feeder-loading.PNG)
 
+Talk to your fab house about which feed direction is right for you.
+
 ## LED Current Usage
 This is where I've found the least information about these chips. The spec sheet helpfully says `0.1 Watt`. When you scale this to over 1,000 LEDs this has major impacts on your power supply. I decided to do some testing.
 
