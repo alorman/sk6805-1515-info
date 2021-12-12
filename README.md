@@ -328,263 +328,264 @@ For our math, I have only used the white intensity up to about 100/255, to avoid
 | ![image](https://via.placeholder.com/15/FF0000/FF0000?) | 0,100,255 | 255,0,0 | 751              | 5.1276               |
 
 ### Pure Green Testing
-Swatch	HSV	RGB	Measured Current (mA)	Current Per LED (mA)
-![image](https://via.placeholder.com/15/000000/000000?)	21845,100,0	0,0,0	86	0.5850
-![image](https://via.placeholder.com/15/000100/000100?)	21845,100,1	0,1,0	88	0.5850
-![image](https://via.placeholder.com/15/000200/000200?)	21845,100,2	0,2,0	91	0.5850
-![image](https://via.placeholder.com/15/000300/000300?)	21845,100,3	0,3,0	93	0.5850
-![image](https://via.placeholder.com/15/000400/000400?)	21845,100,4	0,4,0	96	0.5850
-![image](https://via.placeholder.com/15/000500/000500?)	21845,100,5	0,5,0	98	0.5850
-![image](https://via.placeholder.com/15/000600/000600?)	21845,100,6	0,6,0	101	0.5850
-![image](https://via.placeholder.com/15/000700/000700?)	21845,100,7	0,7,0	103	0.5850
-![image](https://via.placeholder.com/15/000800/000800?)	21845,100,8	0,8,0	106	0.5850
-![image](https://via.placeholder.com/15/000900/000900?)	21845,100,9	0,9,0	109	0.5850
-![image](https://via.placeholder.com/15/000A00/000A00?)	21845,100,10	0,10,0	111	0.5850
-![image](https://via.placeholder.com/15/000B00/000B00?)	21845,100,11	0,11,0	114	0.5850
-![image](https://via.placeholder.com/15/000C00/000C00?)	21845,100,12	0,12,0	116	0.5850
-![image](https://via.placeholder.com/15/000D00/000D00?)	21845,100,13	0,13,0	119	0.5850
-![image](https://via.placeholder.com/15/000E00/000E00?)	21845,100,14	0,14,0	122	0.5850
-![image](https://via.placeholder.com/15/000F00/000F00?)	21845,100,15	0,15,0	124	0.5850
-![image](https://via.placeholder.com/15/001000/001000?)	21845,100,16	0,16,0	127	0.5850
-![image](https://via.placeholder.com/15/001100/001100?)	21845,100,17	0,17,0	129	0.5850
-![image](https://via.placeholder.com/15/001200/001200?)	21845,100,18	0,18,0	132	0.5850
-![image](https://via.placeholder.com/15/001300/001300?)	21845,100,19	0,19,0	134	0.5850
-![image](https://via.placeholder.com/15/001400/001400?)	21845,100,20	0,20,0	137	0.5850
-![image](https://via.placeholder.com/15/001500/001500?)	21845,100,21	0,21,0	140	0.5850
-![image](https://via.placeholder.com/15/001600/001600?)	21845,100,22	0,22,0	142	0.5850
-![image](https://via.placeholder.com/15/001700/001700?)	21845,100,23	0,23,0	145	0.5850
-![image](https://via.placeholder.com/15/001800/001800?)	21845,100,24	0,24,0	147	0.5850
-![image](https://via.placeholder.com/15/001900/001900?)	21845,100,25	0,25,0	150	0.5850
-![image](https://via.placeholder.com/15/001A00/001A00?)	21845,100,26	0,26,0	152	0.5850
-![image](https://via.placeholder.com/15/001B00/001B00?)	21845,100,27	0,27,0	155	0.5850
-![image](https://via.placeholder.com/15/001C00/001C00?)	21845,100,28	0,28,0	158	0.5850
-![image](https://via.placeholder.com/15/001D00/001D00?)	21845,100,29	0,29,0	160	0.5850
-![image](https://via.placeholder.com/15/001E00/001E00?)	21845,100,30	0,30,0	163	0.5850
-![image](https://via.placeholder.com/15/001F00/001F00?)	21845,100,31	0,31,0	165	0.5850
-![image](https://via.placeholder.com/15/002000/002000?)	21845,100,32	0,32,0	168	0.5850
-![image](https://via.placeholder.com/15/002100/002100?)	21845,100,33	0,33,0	171	0.5850
-![image](https://via.placeholder.com/15/002200/002200?)	21845,100,34	0,34,0	173	0.5850
-![image](https://via.placeholder.com/15/002300/002300?)	21845,100,35	0,35,0	176	0.5850
-![image](https://via.placeholder.com/15/002400/002400?)	21845,100,36	0,36,0	178	0.5850
-![image](https://via.placeholder.com/15/002500/002500?)	21845,100,37	0,37,0	181	0.5850
-![image](https://via.placeholder.com/15/002600/002600?)	21845,100,38	0,38,0	183	0.5850
-![image](https://via.placeholder.com/15/002700/002700?)	21845,100,39	0,39,0	186	0.5850
-![image](https://via.placeholder.com/15/002800/002800?)	21845,100,40	0,40,0	189	0.5850
-![image](https://via.placeholder.com/15/002900/002900?)	21845,100,41	0,41,0	191	0.5850
-![image](https://via.placeholder.com/15/002A00/002A00?)	21845,100,42	0,42,0	194	0.5850
-![image](https://via.placeholder.com/15/002B00/002B00?)	21845,100,43	0,43,0	196	0.5850
-![image](https://via.placeholder.com/15/002C00/002C00?)	21845,100,44	0,44,0	199	0.5850
-![image](https://via.placeholder.com/15/002D00/002D00?)	21845,100,45	0,45,0	202	0.5850
-![image](https://via.placeholder.com/15/002E00/002E00?)	21845,100,46	0,46,0	204	0.5850
-![image](https://via.placeholder.com/15/002F00/002F00?)	21845,100,47	0,47,0	207	0.5850
-![image](https://via.placeholder.com/15/003000/003000?)	21845,100,48	0,48,0	209	0.5850
-![image](https://via.placeholder.com/15/003100/003100?)	21845,100,49	0,49,0	212	0.5850
-![image](https://via.placeholder.com/15/003200/003200?)	21845,100,50	0,50,0	214	0.5850
-![image](https://via.placeholder.com/15/003300/003300?)	21845,100,51	0,51,0	217	0.5850
-![image](https://via.placeholder.com/15/003400/003400?)	21845,100,52	0,52,0	220	0.5850
-![image](https://via.placeholder.com/15/003500/003500?)	21845,100,53	0,53,0	222	0.5850
-![image](https://via.placeholder.com/15/003600/003600?)	21845,100,54	0,54,0	225	0.5850
-![image](https://via.placeholder.com/15/003700/003700?)	21845,100,55	0,55,0	227	0.5850
-![image](https://via.placeholder.com/15/003800/003800?)	21845,100,56	0,56,0	230	0.5850
-![image](https://via.placeholder.com/15/003900/003900?)	21845,100,57	0,57,0	232	0.5850
-![image](https://via.placeholder.com/15/003A00/003A00?)	21845,100,58	0,58,0	235	0.5850
-![image](https://via.placeholder.com/15/003B00/003B00?)	21845,100,59	0,59,0	238	0.5850
-![image](https://via.placeholder.com/15/003C00/003C00?)	21845,100,60	0,60,0	240	0.5850
-![image](https://via.placeholder.com/15/003D00/003D00?)	21845,100,61	0,61,0	243	0.5850
-![image](https://via.placeholder.com/15/003E00/003E00?)	21845,100,62	0,62,0	245	0.5850
-![image](https://via.placeholder.com/15/003F00/003F00?)	21845,100,63	0,63,0	248	0.5850
-![image](https://via.placeholder.com/15/004000/004000?)	21845,100,64	0,64,0	250	0.5850
-![image](https://via.placeholder.com/15/004100/004100?)	21845,100,65	0,65,0	253	0.5850
-![image](https://via.placeholder.com/15/004200/004200?)	21845,100,66	0,66,0	256	0.5850
-![image](https://via.placeholder.com/15/004300/004300?)	21845,100,67	0,67,0	258	0.5850
-![image](https://via.placeholder.com/15/004400/004400?)	21845,100,68	0,68,0	261	0.5850
-![image](https://via.placeholder.com/15/004500/004500?)	21845,100,69	0,69,0	263	0.5850
-![image](https://via.placeholder.com/15/004600/004600?)	21845,100,70	0,70,0	266	0.5850
-![image](https://via.placeholder.com/15/004700/004700?)	21845,100,71	0,71,0	268	0.5850
-![image](https://via.placeholder.com/15/004800/004800?)	21845,100,72	0,72,0	271	0.5850
-![image](https://via.placeholder.com/15/004900/004900?)	21845,100,73	0,73,0	274	0.5850
-![image](https://via.placeholder.com/15/004A00/004A00?)	21845,100,74	0,74,0	276	0.5850
-![image](https://via.placeholder.com/15/004B00/004B00?)	21845,100,75	0,75,0	279	0.5850
-![image](https://via.placeholder.com/15/004C00/004C00?)	21845,100,76	0,76,0	280	0.5850
-![image](https://via.placeholder.com/15/004D00/004D00?)	21845,100,77	0,77,0	284	0.5850
-![image](https://via.placeholder.com/15/004E00/004E00?)	21845,100,78	0,78,0	286	0.5850
-![image](https://via.placeholder.com/15/004F00/004F00?)	21845,100,79	0,79,0	289	0.5850
-![image](https://via.placeholder.com/15/005000/005000?)	21845,100,80	0,80,0	292	0.5850
-![image](https://via.placeholder.com/15/005100/005100?)	21845,100,81	0,81,0	294	0.5850
-![image](https://via.placeholder.com/15/005200/005200?)	21845,100,82	0,82,0	297	0.5850
-![image](https://via.placeholder.com/15/005300/005300?)	21845,100,83	0,83,0	299	0.5850
-![image](https://via.placeholder.com/15/005400/005400?)	21845,100,84	0,84,0	302	0.5850
-![image](https://via.placeholder.com/15/005500/005500?)	21845,100,85	0,85,0	305	0.5850
-![image](https://via.placeholder.com/15/005600/005600?)	21845,100,86	0,86,0	307	0.5850
-![image](https://via.placeholder.com/15/005700/005700?)	21845,100,87	0,87,0	310	0.5850
-![image](https://via.placeholder.com/15/005800/005800?)	21845,100,88	0,88,0	312	0.5850
-![image](https://via.placeholder.com/15/005900/005900?)	21845,100,89	0,89,0	315	0.5850
-![image](https://via.placeholder.com/15/005A00/005A00?)	21845,100,90	0,90,0	317	0.5850
-![image](https://via.placeholder.com/15/005B00/005B00?)	21845,100,91	0,91,0	320	0.5850
-![image](https://via.placeholder.com/15/005C00/005C00?)	21845,100,92	0,92,0	322	0.5850
-![image](https://via.placeholder.com/15/005D00/005D00?)	21845,100,93	0,93,0	325	0.5850
-![image](https://via.placeholder.com/15/005E00/005E00?)	21845,100,94	0,94,0	328	0.5850
-![image](https://via.placeholder.com/15/005F00/005F00?)	21845,100,95	0,95,0	330	0.5850
-![image](https://via.placeholder.com/15/006000/006000?)	21845,100,96	0,96,0	333	0.5850
-![image](https://via.placeholder.com/15/006100/006100?)	21845,100,97	0,97,0	335	0.5850
-![image](https://via.placeholder.com/15/006200/006200?)	21845,100,98	0,98,0	338	0.5850
-![image](https://via.placeholder.com/15/006300/006300?)	21845,100,99	0,99,0	340	0.5850
-![image](https://via.placeholder.com/15/006400/006400?)	21845,100,100	0,100,0	343	0.5850
-![image](https://via.placeholder.com/15/006500/006500?)	21845,100,101	0,101,0	346	0.5850
-![image](https://via.placeholder.com/15/006600/006600?)	21845,100,102	0,102,0	348	0.5850
-![image](https://via.placeholder.com/15/006700/006700?)	21845,100,103	0,103,0	351	0.5850
-![image](https://via.placeholder.com/15/006800/006800?)	21845,100,104	0,104,0	354	0.5850
-![image](https://via.placeholder.com/15/006900/006900?)	21845,100,105	0,105,0	356	0.5850
-![image](https://via.placeholder.com/15/006A00/006A00?)	21845,100,106	0,106,0	359	0.5850
-![image](https://via.placeholder.com/15/006B00/006B00?)	21845,100,107	0,107,0	360	0.5850
-![image](https://via.placeholder.com/15/006C00/006C00?)	21845,100,108	0,108,0	364	0.5850
-![image](https://via.placeholder.com/15/006D00/006D00?)	21845,100,109	0,109,0	366	0.5850
-![image](https://via.placeholder.com/15/006E00/006E00?)	21845,100,110	0,110,0	369	0.5850
-![image](https://via.placeholder.com/15/006F00/006F00?)	21845,100,111	0,111,0	371	0.5850
-![image](https://via.placeholder.com/15/007000/007000?)	21845,100,112	0,112,0	374	0.5850
-![image](https://via.placeholder.com/15/007100/007100?)	21845,100,113	0,113,0	377	0.5850
-![image](https://via.placeholder.com/15/007200/007200?)	21845,100,114	0,114,0	379	0.5850
-![image](https://via.placeholder.com/15/007300/007300?)	21845,100,115	0,115,0	382	0.5850
-![image](https://via.placeholder.com/15/007400/007400?)	21845,100,116	0,116,0	384	0.5850
-![image](https://via.placeholder.com/15/007500/007500?)	21845,100,117	0,117,0	387	0.5850
-![image](https://via.placeholder.com/15/007600/007600?)	21845,100,118	0,118,0	390	0.5850
-![image](https://via.placeholder.com/15/007700/007700?)	21845,100,119	0,119,0	392	0.5850
-![image](https://via.placeholder.com/15/007800/007800?)	21845,100,120	0,120,0	395	0.5850
-![image](https://via.placeholder.com/15/007900/007900?)	21845,100,121	0,121,0	397	0.5850
-![image](https://via.placeholder.com/15/007A00/007A00?)	21845,100,122	0,122,0	400	0.5850
-![image](https://via.placeholder.com/15/007B00/007B00?)	21845,100,123	0,123,0	402	0.5850
-![image](https://via.placeholder.com/15/007C00/007C00?)	21845,100,124	0,124,0	405	0.5850
-![image](https://via.placeholder.com/15/007D00/007D00?)	21845,100,125	0,125,0	407	0.5850
-![image](https://via.placeholder.com/15/007E00/007E00?)	21845,100,126	0,126,0	410	0.5850
-![image](https://via.placeholder.com/15/007F00/007F00?)	21845,100,127	0,127,0	413	0.5850
-![image](https://via.placeholder.com/15/008000/008000?)	21845,100,128	0,128,0	415	0.5850
-![image](https://via.placeholder.com/15/008100/008100?)	21845,100,129	0,129,0	418	0.5850
-![image](https://via.placeholder.com/15/008200/008200?)	21845,100,130	0,130,0	420	0.5850
-![image](https://via.placeholder.com/15/008300/008300?)	21845,100,131	0,131,0	423	0.5850
-![image](https://via.placeholder.com/15/008400/008400?)	21845,100,132	0,132,0	425	0.5850
-![image](https://via.placeholder.com/15/008500/008500?)	21845,100,133	0,133,0	428	0.5850
-![image](https://via.placeholder.com/15/008600/008600?)	21845,100,134	0,134,0	431	0.5850
-![image](https://via.placeholder.com/15/008700/008700?)	21845,100,135	0,135,0	433	0.5850
-![image](https://via.placeholder.com/15/008800/008800?)	21845,100,136	0,136,0	436	0.5850
-![image](https://via.placeholder.com/15/008900/008900?)	21845,100,137	0,137,0	438	0.5850
-![image](https://via.placeholder.com/15/008A00/008A00?)	21845,100,138	0,138,0	441	0.5850
-![image](https://via.placeholder.com/15/008B00/008B00?)	21845,100,139	0,139,0	443	0.5850
-![image](https://via.placeholder.com/15/008C00/008C00?)	21845,100,140	0,140,0	446	0.5850
-![image](https://via.placeholder.com/15/008D00/008D00?)	21845,100,141	0,141,0	449	0.5850
-![image](https://via.placeholder.com/15/008E00/008E00?)	21845,100,142	0,142,0	451	0.5850
-![image](https://via.placeholder.com/15/008F00/008F00?)	21845,100,143	0,143,0	454	0.5850
-![image](https://via.placeholder.com/15/009000/009000?)	21845,100,144	0,144,0	456	0.5850
-![image](https://via.placeholder.com/15/009100/009100?)	21845,100,145	0,145,0	459	0.5850
-![image](https://via.placeholder.com/15/009200/009200?)	21845,100,146	0,146,0	461	0.5850
-![image](https://via.placeholder.com/15/009300/009300?)	21845,100,147	0,147,0	464	0.5850
-![image](https://via.placeholder.com/15/009400/009400?)	21845,100,148	0,148,0	467	0.5850
-![image](https://via.placeholder.com/15/009500/009500?)	21845,100,149	0,149,0	469	0.5850
-![image](https://via.placeholder.com/15/009600/009600?)	21845,100,150	0,150,0	472	0.5850
-![image](https://via.placeholder.com/15/009700/009700?)	21845,100,151	0,151,0	474	0.5850
-![image](https://via.placeholder.com/15/009800/009800?)	21845,100,152	0,152,0	477	0.5850
-![image](https://via.placeholder.com/15/009900/009900?)	21845,100,153	0,153,0	480	0.5850
-![image](https://via.placeholder.com/15/009A00/009A00?)	21845,100,154	0,154,0	482	0.5850
-![image](https://via.placeholder.com/15/009B00/009B00?)	21845,100,155	0,155,0	485	0.5850
-![image](https://via.placeholder.com/15/009C00/009C00?)	21845,100,156	0,156,0	487	0.5850
-![image](https://via.placeholder.com/15/009D00/009D00?)	21845,100,157	0,157,0	490	0.5850
-![image](https://via.placeholder.com/15/009E00/009E00?)	21845,100,158	0,158,0	492	0.5850
-![image](https://via.placeholder.com/15/009F00/009F00?)	21845,100,159	0,159,0	495	0.5850
-![image](https://via.placeholder.com/15/00A000/00A000?)	21845,100,160	0,160,0	498	0.5850
-![image](https://via.placeholder.com/15/00A100/00A100?)	21845,100,161	0,161,0	500	0.5850
-![image](https://via.placeholder.com/15/00A200/00A200?)	21845,100,162	0,162,0	503	0.5850
-![image](https://via.placeholder.com/15/00A300/00A300?)	21845,100,163	0,163,0	505	0.5850
-![image](https://via.placeholder.com/15/00A400/00A400?)	21845,100,164	0,164,0	508	0.5850
-![image](https://via.placeholder.com/15/00A500/00A500?)	21845,100,165	0,165,0	510	0.5850
-![image](https://via.placeholder.com/15/00A600/00A600?)	21845,100,166	0,166,0	513	0.5850
-![image](https://via.placeholder.com/15/00A700/00A700?)	21845,100,167	0,167,0	516	0.5850
-![image](https://via.placeholder.com/15/00A800/00A800?)	21845,100,168	0,168,0	518	0.5850
-![image](https://via.placeholder.com/15/00A900/00A900?)	21845,100,169	0,169,0	521	0.5850
-![image](https://via.placeholder.com/15/00AA00/00AA00?)	21845,100,170	0,170,0	523	0.5850
-![image](https://via.placeholder.com/15/00AB00/00AB00?)	21845,100,171	0,171,0	526	0.5850
-![image](https://via.placeholder.com/15/00AC00/00AC00?)	21845,100,172	0,172,0	528	0.5850
-![image](https://via.placeholder.com/15/00AD00/00AD00?)	21845,100,173	0,173,0	531	0.5850
-![image](https://via.placeholder.com/15/00AE00/00AE00?)	21845,100,174	0,174,0	534	0.5850
-![image](https://via.placeholder.com/15/00AF00/00AF00?)	21845,100,175	0,175,0	536	0.5850
-![image](https://via.placeholder.com/15/00B000/00B000?)	21845,100,176	0,176,0	539	0.5850
-![image](https://via.placeholder.com/15/00B100/00B100?)	21845,100,177	0,177,0	542	0.5850
-![image](https://via.placeholder.com/15/00B200/00B200?)	21845,100,178	0,178,0	544	0.5850
-![image](https://via.placeholder.com/15/00B300/00B300?)	21845,100,179	0,179,0	547	0.5850
-![image](https://via.placeholder.com/15/00B400/00B400?)	21845,100,180	0,180,0	549	0.5850
-![image](https://via.placeholder.com/15/00B500/00B500?)	21845,100,181	0,181,0	552	0.5850
-![image](https://via.placeholder.com/15/00B600/00B600?)	21845,100,182	0,182,0	555	0.5850
-![image](https://via.placeholder.com/15/00B700/00B700?)	21845,100,183	0,183,0	557	0.5850
-![image](https://via.placeholder.com/15/00B800/00B800?)	21845,100,184	0,184,0	560	0.5850
-![image](https://via.placeholder.com/15/00B900/00B900?)	21845,100,185	0,185,0	563	0.5850
-![image](https://via.placeholder.com/15/00BA00/00BA00?)	21845,100,186	0,186,0	565	0.5850
-![image](https://via.placeholder.com/15/00BB00/00BB00?)	21845,100,187	0,187,0	568	0.5850
-![image](https://via.placeholder.com/15/00BC00/00BC00?)	21845,100,188	0,188,0	570	0.5850
-![image](https://via.placeholder.com/15/00BD00/00BD00?)	21845,100,189	0,189,0	573	0.5850
-![image](https://via.placeholder.com/15/00BE00/00BE00?)	21845,100,190	0,190,0	576	0.5850
-![image](https://via.placeholder.com/15/00BF00/00BF00?)	21845,100,191	0,191,0	578	0.5850
-![image](https://via.placeholder.com/15/00C000/00C000?)	21845,100,192	0,192,0	581	0.5850
-![image](https://via.placeholder.com/15/00C100/00C100?)	21845,100,193	0,193,0	584	0.5850
-![image](https://via.placeholder.com/15/00C200/00C200?)	21845,100,194	0,194,0	586	0.5850
-![image](https://via.placeholder.com/15/00C300/00C300?)	21845,100,195	0,195,0	589	0.5850
-![image](https://via.placeholder.com/15/00C400/00C400?)	21845,100,196	0,196,0	591	0.5850
-![image](https://via.placeholder.com/15/00C500/00C500?)	21845,100,197	0,197,0	594	0.5850
-![image](https://via.placeholder.com/15/00C600/00C600?)	21845,100,198	0,198,0	597	0.5850
-![image](https://via.placeholder.com/15/00C700/00C700?)	21845,100,199	0,199,0	600	0.5850
-![image](https://via.placeholder.com/15/00C800/00C800?)	21845,100,200	0,200,0	602	0.5850
-![image](https://via.placeholder.com/15/00C900/00C900?)	21845,100,201	0,201,0	605	0.5850
-![image](https://via.placeholder.com/15/00CA00/00CA00?)	21845,100,202	0,202,0	607	0.5850
-![image](https://via.placeholder.com/15/00CB00/00CB00?)	21845,100,203	0,203,0	610	0.5850
-![image](https://via.placeholder.com/15/00CC00/00CC00?)	21845,100,204	0,204,0	613	0.5850
-![image](https://via.placeholder.com/15/00CD00/00CD00?)	21845,100,205	0,205,0	615	0.5850
-![image](https://via.placeholder.com/15/00CE00/00CE00?)	21845,100,206	0,206,0	618	0.5850
-![image](https://via.placeholder.com/15/00CF00/00CF00?)	21845,100,207	0,207,0	621	0.5850
-![image](https://via.placeholder.com/15/00D000/00D000?)	21845,100,208	0,208,0	623	0.5850
-![image](https://via.placeholder.com/15/00D100/00D100?)	21845,100,209	0,209,0	626	0.5850
-![image](https://via.placeholder.com/15/00D200/00D200?)	21845,100,210	0,210,0	629	0.5850
-![image](https://via.placeholder.com/15/00D300/00D300?)	21845,100,211	0,211,0	631	0.5850
-![image](https://via.placeholder.com/15/00D400/00D400?)	21845,100,212	0,212,0	634	0.5850
-![image](https://via.placeholder.com/15/00D500/00D500?)	21845,100,213	0,213,0	637	0.5850
-![image](https://via.placeholder.com/15/00D600/00D600?)	21845,100,214	0,214,0	639	0.5850
-![image](https://via.placeholder.com/15/00D700/00D700?)	21845,100,215	0,215,0	642	0.5850
-![image](https://via.placeholder.com/15/00D800/00D800?)	21845,100,216	0,216,0	645	0.5850
-![image](https://via.placeholder.com/15/00D900/00D900?)	21845,100,217	0,217,0	647	0.5850
-![image](https://via.placeholder.com/15/00DA00/00DA00?)	21845,100,218	0,218,0	650	0.5850
-![image](https://via.placeholder.com/15/00DB00/00DB00?)	21845,100,219	0,219,0	653	0.5850
-![image](https://via.placeholder.com/15/00DC00/00DC00?)	21845,100,220	0,220,0	655	0.5850
-![image](https://via.placeholder.com/15/00DD00/00DD00?)	21845,100,221	0,221,0	658	0.5850
-![image](https://via.placeholder.com/15/00DE00/00DE00?)	21845,100,222	0,222,0	661	0.5850
-![image](https://via.placeholder.com/15/00DF00/00DF00?)	21845,100,223	0,223,0	663	0.5850
-![image](https://via.placeholder.com/15/00E000/00E000?)	21845,100,224	0,224,0	666	0.5850
-![image](https://via.placeholder.com/15/00E100/00E100?)	21845,100,225	0,225,0	669	0.5850
-![image](https://via.placeholder.com/15/00E200/00E200?)	21845,100,226	0,226,0	671	0.5850
-![image](https://via.placeholder.com/15/00E300/00E300?)	21845,100,227	0,227,0	674	0.5850
-![image](https://via.placeholder.com/15/00E400/00E400?)	21845,100,228	0,228,0	677	0.5850
-![image](https://via.placeholder.com/15/00E500/00E500?)	21845,100,229	0,229,0	679	0.5850
-![image](https://via.placeholder.com/15/00E600/00E600?)	21845,100,230	0,230,0	682	0.5850
-![image](https://via.placeholder.com/15/00E700/00E700?)	21845,100,231	0,231,0	685	0.5850
-![image](https://via.placeholder.com/15/00E800/00E800?)	21845,100,232	0,232,0	687	0.5850
-![image](https://via.placeholder.com/15/00E900/00E900?)	21845,100,233	0,233,0	690	0.5850
-![image](https://via.placeholder.com/15/00EA00/00EA00?)	21845,100,234	0,234,0	693	0.5850
-![image](https://via.placeholder.com/15/00EB00/00EB00?)	21845,100,235	0,235,0	695	0.5850
-![image](https://via.placeholder.com/15/00EC00/00EC00?)	21845,100,236	0,236,0	698	0.5850
-![image](https://via.placeholder.com/15/00ED00/00ED00?)	21845,100,237	0,237,0	700	0.5850
-![image](https://via.placeholder.com/15/00EE00/00EE00?)	21845,100,238	0,238,0	703	0.5850
-![image](https://via.placeholder.com/15/00EF00/00EF00?)	21845,100,239	0,239,0	706	0.5850
-![image](https://via.placeholder.com/15/00F000/00F000?)	21845,100,240	0,240,0	708	0.5850
-![image](https://via.placeholder.com/15/00F100/00F100?)	21845,100,241	0,241,0	711	0.5850
-![image](https://via.placeholder.com/15/00F200/00F200?)	21845,100,242	0,242,0	714	0.5850
-![image](https://via.placeholder.com/15/00F300/00F300?)	21845,100,243	0,243,0	716	0.5850
-![image](https://via.placeholder.com/15/00F400/00F400?)	21845,100,244	0,244,0	719	0.5850
-![image](https://via.placeholder.com/15/00F500/00F500?)	21845,100,245	0,245,0	722	0.5850
-![image](https://via.placeholder.com/15/00F600/00F600?)	21845,100,246	0,246,0	724	0.5850
-![image](https://via.placeholder.com/15/00F700/00F700?)	21845,100,247	0,247,0	727	0.5850
-![image](https://via.placeholder.com/15/00F800/00F800?)	21845,100,248	0,248,0	729	0.5850
-![image](https://via.placeholder.com/15/00F900/00F900?)	21845,100,249	0,249,0	732	0.5850
-![image](https://via.placeholder.com/15/00FA00/00FA00?)	21845,100,250	0,250,0	735	0.5850
-![image](https://via.placeholder.com/15/00FB00/00FB00?)	21845,100,251	0,251,0	737	0.5850
-![image](https://via.placeholder.com/15/00FC00/00FC00?)	21845,100,252	0,252,0	740	0.5850
-![image](https://via.placeholder.com/15/00FD00/00FD00?)	21845,100,253	0,253,0	743	0.5850
-![image](https://via.placeholder.com/15/00FE00/00FE00?)	21845,100,254	0,254,0	745	0.5850
-![image](https://via.placeholder.com/15/00FF00/00FF00?)	21845,100,255	0,255,0	751	0.5850
+| Swatch                                                  | HSV           | RGB     | Measured Current (mA) | Current Per LED (mA) |
+|---------------------------------------------------------|---------------|---------|-----------------------|----------------------|
+| ![image](https://via.placeholder.com/15/000000/000000?) | 21845,100,0   | 0,0,0   | 86                    | 0.5850               |
+| ![image](https://via.placeholder.com/15/000100/000100?) | 21845,100,1   | 0,1,0   | 88                    | 0.5850               |
+| ![image](https://via.placeholder.com/15/000200/000200?) | 21845,100,2   | 0,2,0   | 91                    | 0.5850               |
+| ![image](https://via.placeholder.com/15/000300/000300?) | 21845,100,3   | 0,3,0   | 93                    | 0.5850               |
+| ![image](https://via.placeholder.com/15/000400/000400?) | 21845,100,4   | 0,4,0   | 96                    | 0.5850               |
+| ![image](https://via.placeholder.com/15/000500/000500?) | 21845,100,5   | 0,5,0   | 98                    | 0.5850               |
+| ![image](https://via.placeholder.com/15/000600/000600?) | 21845,100,6   | 0,6,0   | 101                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/000700/000700?) | 21845,100,7   | 0,7,0   | 103                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/000800/000800?) | 21845,100,8   | 0,8,0   | 106                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/000900/000900?) | 21845,100,9   | 0,9,0   | 109                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/000A00/000A00?) | 21845,100,10  | 0,10,0  | 111                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/000B00/000B00?) | 21845,100,11  | 0,11,0  | 114                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/000C00/000C00?) | 21845,100,12  | 0,12,0  | 116                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/000D00/000D00?) | 21845,100,13  | 0,13,0  | 119                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/000E00/000E00?) | 21845,100,14  | 0,14,0  | 122                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/000F00/000F00?) | 21845,100,15  | 0,15,0  | 124                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/001000/001000?) | 21845,100,16  | 0,16,0  | 127                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/001100/001100?) | 21845,100,17  | 0,17,0  | 129                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/001200/001200?) | 21845,100,18  | 0,18,0  | 132                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/001300/001300?) | 21845,100,19  | 0,19,0  | 134                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/001400/001400?) | 21845,100,20  | 0,20,0  | 137                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/001500/001500?) | 21845,100,21  | 0,21,0  | 140                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/001600/001600?) | 21845,100,22  | 0,22,0  | 142                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/001700/001700?) | 21845,100,23  | 0,23,0  | 145                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/001800/001800?) | 21845,100,24  | 0,24,0  | 147                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/001900/001900?) | 21845,100,25  | 0,25,0  | 150                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/001A00/001A00?) | 21845,100,26  | 0,26,0  | 152                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/001B00/001B00?) | 21845,100,27  | 0,27,0  | 155                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/001C00/001C00?) | 21845,100,28  | 0,28,0  | 158                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/001D00/001D00?) | 21845,100,29  | 0,29,0  | 160                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/001E00/001E00?) | 21845,100,30  | 0,30,0  | 163                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/001F00/001F00?) | 21845,100,31  | 0,31,0  | 165                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/002000/002000?) | 21845,100,32  | 0,32,0  | 168                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/002100/002100?) | 21845,100,33  | 0,33,0  | 171                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/002200/002200?) | 21845,100,34  | 0,34,0  | 173                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/002300/002300?) | 21845,100,35  | 0,35,0  | 176                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/002400/002400?) | 21845,100,36  | 0,36,0  | 178                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/002500/002500?) | 21845,100,37  | 0,37,0  | 181                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/002600/002600?) | 21845,100,38  | 0,38,0  | 183                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/002700/002700?) | 21845,100,39  | 0,39,0  | 186                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/002800/002800?) | 21845,100,40  | 0,40,0  | 189                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/002900/002900?) | 21845,100,41  | 0,41,0  | 191                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/002A00/002A00?) | 21845,100,42  | 0,42,0  | 194                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/002B00/002B00?) | 21845,100,43  | 0,43,0  | 196                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/002C00/002C00?) | 21845,100,44  | 0,44,0  | 199                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/002D00/002D00?) | 21845,100,45  | 0,45,0  | 202                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/002E00/002E00?) | 21845,100,46  | 0,46,0  | 204                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/002F00/002F00?) | 21845,100,47  | 0,47,0  | 207                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/003000/003000?) | 21845,100,48  | 0,48,0  | 209                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/003100/003100?) | 21845,100,49  | 0,49,0  | 212                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/003200/003200?) | 21845,100,50  | 0,50,0  | 214                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/003300/003300?) | 21845,100,51  | 0,51,0  | 217                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/003400/003400?) | 21845,100,52  | 0,52,0  | 220                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/003500/003500?) | 21845,100,53  | 0,53,0  | 222                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/003600/003600?) | 21845,100,54  | 0,54,0  | 225                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/003700/003700?) | 21845,100,55  | 0,55,0  | 227                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/003800/003800?) | 21845,100,56  | 0,56,0  | 230                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/003900/003900?) | 21845,100,57  | 0,57,0  | 232                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/003A00/003A00?) | 21845,100,58  | 0,58,0  | 235                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/003B00/003B00?) | 21845,100,59  | 0,59,0  | 238                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/003C00/003C00?) | 21845,100,60  | 0,60,0  | 240                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/003D00/003D00?) | 21845,100,61  | 0,61,0  | 243                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/003E00/003E00?) | 21845,100,62  | 0,62,0  | 245                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/003F00/003F00?) | 21845,100,63  | 0,63,0  | 248                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/004000/004000?) | 21845,100,64  | 0,64,0  | 250                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/004100/004100?) | 21845,100,65  | 0,65,0  | 253                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/004200/004200?) | 21845,100,66  | 0,66,0  | 256                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/004300/004300?) | 21845,100,67  | 0,67,0  | 258                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/004400/004400?) | 21845,100,68  | 0,68,0  | 261                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/004500/004500?) | 21845,100,69  | 0,69,0  | 263                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/004600/004600?) | 21845,100,70  | 0,70,0  | 266                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/004700/004700?) | 21845,100,71  | 0,71,0  | 268                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/004800/004800?) | 21845,100,72  | 0,72,0  | 271                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/004900/004900?) | 21845,100,73  | 0,73,0  | 274                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/004A00/004A00?) | 21845,100,74  | 0,74,0  | 276                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/004B00/004B00?) | 21845,100,75  | 0,75,0  | 279                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/004C00/004C00?) | 21845,100,76  | 0,76,0  | 280                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/004D00/004D00?) | 21845,100,77  | 0,77,0  | 284                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/004E00/004E00?) | 21845,100,78  | 0,78,0  | 286                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/004F00/004F00?) | 21845,100,79  | 0,79,0  | 289                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/005000/005000?) | 21845,100,80  | 0,80,0  | 292                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/005100/005100?) | 21845,100,81  | 0,81,0  | 294                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/005200/005200?) | 21845,100,82  | 0,82,0  | 297                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/005300/005300?) | 21845,100,83  | 0,83,0  | 299                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/005400/005400?) | 21845,100,84  | 0,84,0  | 302                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/005500/005500?) | 21845,100,85  | 0,85,0  | 305                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/005600/005600?) | 21845,100,86  | 0,86,0  | 307                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/005700/005700?) | 21845,100,87  | 0,87,0  | 310                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/005800/005800?) | 21845,100,88  | 0,88,0  | 312                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/005900/005900?) | 21845,100,89  | 0,89,0  | 315                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/005A00/005A00?) | 21845,100,90  | 0,90,0  | 317                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/005B00/005B00?) | 21845,100,91  | 0,91,0  | 320                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/005C00/005C00?) | 21845,100,92  | 0,92,0  | 322                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/005D00/005D00?) | 21845,100,93  | 0,93,0  | 325                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/005E00/005E00?) | 21845,100,94  | 0,94,0  | 328                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/005F00/005F00?) | 21845,100,95  | 0,95,0  | 330                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/006000/006000?) | 21845,100,96  | 0,96,0  | 333                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/006100/006100?) | 21845,100,97  | 0,97,0  | 335                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/006200/006200?) | 21845,100,98  | 0,98,0  | 338                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/006300/006300?) | 21845,100,99  | 0,99,0  | 340                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/006400/006400?) | 21845,100,100 | 0,100,0 | 343                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/006500/006500?) | 21845,100,101 | 0,101,0 | 346                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/006600/006600?) | 21845,100,102 | 0,102,0 | 348                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/006700/006700?) | 21845,100,103 | 0,103,0 | 351                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/006800/006800?) | 21845,100,104 | 0,104,0 | 354                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/006900/006900?) | 21845,100,105 | 0,105,0 | 356                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/006A00/006A00?) | 21845,100,106 | 0,106,0 | 359                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/006B00/006B00?) | 21845,100,107 | 0,107,0 | 360                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/006C00/006C00?) | 21845,100,108 | 0,108,0 | 364                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/006D00/006D00?) | 21845,100,109 | 0,109,0 | 366                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/006E00/006E00?) | 21845,100,110 | 0,110,0 | 369                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/006F00/006F00?) | 21845,100,111 | 0,111,0 | 371                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/007000/007000?) | 21845,100,112 | 0,112,0 | 374                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/007100/007100?) | 21845,100,113 | 0,113,0 | 377                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/007200/007200?) | 21845,100,114 | 0,114,0 | 379                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/007300/007300?) | 21845,100,115 | 0,115,0 | 382                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/007400/007400?) | 21845,100,116 | 0,116,0 | 384                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/007500/007500?) | 21845,100,117 | 0,117,0 | 387                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/007600/007600?) | 21845,100,118 | 0,118,0 | 390                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/007700/007700?) | 21845,100,119 | 0,119,0 | 392                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/007800/007800?) | 21845,100,120 | 0,120,0 | 395                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/007900/007900?) | 21845,100,121 | 0,121,0 | 397                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/007A00/007A00?) | 21845,100,122 | 0,122,0 | 400                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/007B00/007B00?) | 21845,100,123 | 0,123,0 | 402                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/007C00/007C00?) | 21845,100,124 | 0,124,0 | 405                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/007D00/007D00?) | 21845,100,125 | 0,125,0 | 407                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/007E00/007E00?) | 21845,100,126 | 0,126,0 | 410                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/007F00/007F00?) | 21845,100,127 | 0,127,0 | 413                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/008000/008000?) | 21845,100,128 | 0,128,0 | 415                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/008100/008100?) | 21845,100,129 | 0,129,0 | 418                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/008200/008200?) | 21845,100,130 | 0,130,0 | 420                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/008300/008300?) | 21845,100,131 | 0,131,0 | 423                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/008400/008400?) | 21845,100,132 | 0,132,0 | 425                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/008500/008500?) | 21845,100,133 | 0,133,0 | 428                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/008600/008600?) | 21845,100,134 | 0,134,0 | 431                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/008700/008700?) | 21845,100,135 | 0,135,0 | 433                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/008800/008800?) | 21845,100,136 | 0,136,0 | 436                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/008900/008900?) | 21845,100,137 | 0,137,0 | 438                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/008A00/008A00?) | 21845,100,138 | 0,138,0 | 441                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/008B00/008B00?) | 21845,100,139 | 0,139,0 | 443                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/008C00/008C00?) | 21845,100,140 | 0,140,0 | 446                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/008D00/008D00?) | 21845,100,141 | 0,141,0 | 449                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/008E00/008E00?) | 21845,100,142 | 0,142,0 | 451                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/008F00/008F00?) | 21845,100,143 | 0,143,0 | 454                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/009000/009000?) | 21845,100,144 | 0,144,0 | 456                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/009100/009100?) | 21845,100,145 | 0,145,0 | 459                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/009200/009200?) | 21845,100,146 | 0,146,0 | 461                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/009300/009300?) | 21845,100,147 | 0,147,0 | 464                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/009400/009400?) | 21845,100,148 | 0,148,0 | 467                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/009500/009500?) | 21845,100,149 | 0,149,0 | 469                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/009600/009600?) | 21845,100,150 | 0,150,0 | 472                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/009700/009700?) | 21845,100,151 | 0,151,0 | 474                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/009800/009800?) | 21845,100,152 | 0,152,0 | 477                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/009900/009900?) | 21845,100,153 | 0,153,0 | 480                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/009A00/009A00?) | 21845,100,154 | 0,154,0 | 482                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/009B00/009B00?) | 21845,100,155 | 0,155,0 | 485                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/009C00/009C00?) | 21845,100,156 | 0,156,0 | 487                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/009D00/009D00?) | 21845,100,157 | 0,157,0 | 490                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/009E00/009E00?) | 21845,100,158 | 0,158,0 | 492                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/009F00/009F00?) | 21845,100,159 | 0,159,0 | 495                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00A000/00A000?) | 21845,100,160 | 0,160,0 | 498                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00A100/00A100?) | 21845,100,161 | 0,161,0 | 500                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00A200/00A200?) | 21845,100,162 | 0,162,0 | 503                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00A300/00A300?) | 21845,100,163 | 0,163,0 | 505                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00A400/00A400?) | 21845,100,164 | 0,164,0 | 508                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00A500/00A500?) | 21845,100,165 | 0,165,0 | 510                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00A600/00A600?) | 21845,100,166 | 0,166,0 | 513                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00A700/00A700?) | 21845,100,167 | 0,167,0 | 516                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00A800/00A800?) | 21845,100,168 | 0,168,0 | 518                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00A900/00A900?) | 21845,100,169 | 0,169,0 | 521                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00AA00/00AA00?) | 21845,100,170 | 0,170,0 | 523                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00AB00/00AB00?) | 21845,100,171 | 0,171,0 | 526                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00AC00/00AC00?) | 21845,100,172 | 0,172,0 | 528                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00AD00/00AD00?) | 21845,100,173 | 0,173,0 | 531                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00AE00/00AE00?) | 21845,100,174 | 0,174,0 | 534                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00AF00/00AF00?) | 21845,100,175 | 0,175,0 | 536                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00B000/00B000?) | 21845,100,176 | 0,176,0 | 539                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00B100/00B100?) | 21845,100,177 | 0,177,0 | 542                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00B200/00B200?) | 21845,100,178 | 0,178,0 | 544                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00B300/00B300?) | 21845,100,179 | 0,179,0 | 547                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00B400/00B400?) | 21845,100,180 | 0,180,0 | 549                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00B500/00B500?) | 21845,100,181 | 0,181,0 | 552                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00B600/00B600?) | 21845,100,182 | 0,182,0 | 555                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00B700/00B700?) | 21845,100,183 | 0,183,0 | 557                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00B800/00B800?) | 21845,100,184 | 0,184,0 | 560                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00B900/00B900?) | 21845,100,185 | 0,185,0 | 563                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00BA00/00BA00?) | 21845,100,186 | 0,186,0 | 565                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00BB00/00BB00?) | 21845,100,187 | 0,187,0 | 568                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00BC00/00BC00?) | 21845,100,188 | 0,188,0 | 570                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00BD00/00BD00?) | 21845,100,189 | 0,189,0 | 573                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00BE00/00BE00?) | 21845,100,190 | 0,190,0 | 576                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00BF00/00BF00?) | 21845,100,191 | 0,191,0 | 578                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00C000/00C000?) | 21845,100,192 | 0,192,0 | 581                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00C100/00C100?) | 21845,100,193 | 0,193,0 | 584                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00C200/00C200?) | 21845,100,194 | 0,194,0 | 586                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00C300/00C300?) | 21845,100,195 | 0,195,0 | 589                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00C400/00C400?) | 21845,100,196 | 0,196,0 | 591                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00C500/00C500?) | 21845,100,197 | 0,197,0 | 594                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00C600/00C600?) | 21845,100,198 | 0,198,0 | 597                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00C700/00C700?) | 21845,100,199 | 0,199,0 | 600                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00C800/00C800?) | 21845,100,200 | 0,200,0 | 602                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00C900/00C900?) | 21845,100,201 | 0,201,0 | 605                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00CA00/00CA00?) | 21845,100,202 | 0,202,0 | 607                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00CB00/00CB00?) | 21845,100,203 | 0,203,0 | 610                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00CC00/00CC00?) | 21845,100,204 | 0,204,0 | 613                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00CD00/00CD00?) | 21845,100,205 | 0,205,0 | 615                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00CE00/00CE00?) | 21845,100,206 | 0,206,0 | 618                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00CF00/00CF00?) | 21845,100,207 | 0,207,0 | 621                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00D000/00D000?) | 21845,100,208 | 0,208,0 | 623                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00D100/00D100?) | 21845,100,209 | 0,209,0 | 626                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00D200/00D200?) | 21845,100,210 | 0,210,0 | 629                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00D300/00D300?) | 21845,100,211 | 0,211,0 | 631                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00D400/00D400?) | 21845,100,212 | 0,212,0 | 634                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00D500/00D500?) | 21845,100,213 | 0,213,0 | 637                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00D600/00D600?) | 21845,100,214 | 0,214,0 | 639                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00D700/00D700?) | 21845,100,215 | 0,215,0 | 642                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00D800/00D800?) | 21845,100,216 | 0,216,0 | 645                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00D900/00D900?) | 21845,100,217 | 0,217,0 | 647                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00DA00/00DA00?) | 21845,100,218 | 0,218,0 | 650                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00DB00/00DB00?) | 21845,100,219 | 0,219,0 | 653                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00DC00/00DC00?) | 21845,100,220 | 0,220,0 | 655                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00DD00/00DD00?) | 21845,100,221 | 0,221,0 | 658                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00DE00/00DE00?) | 21845,100,222 | 0,222,0 | 661                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00DF00/00DF00?) | 21845,100,223 | 0,223,0 | 663                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00E000/00E000?) | 21845,100,224 | 0,224,0 | 666                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00E100/00E100?) | 21845,100,225 | 0,225,0 | 669                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00E200/00E200?) | 21845,100,226 | 0,226,0 | 671                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00E300/00E300?) | 21845,100,227 | 0,227,0 | 674                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00E400/00E400?) | 21845,100,228 | 0,228,0 | 677                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00E500/00E500?) | 21845,100,229 | 0,229,0 | 679                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00E600/00E600?) | 21845,100,230 | 0,230,0 | 682                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00E700/00E700?) | 21845,100,231 | 0,231,0 | 685                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00E800/00E800?) | 21845,100,232 | 0,232,0 | 687                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00E900/00E900?) | 21845,100,233 | 0,233,0 | 690                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00EA00/00EA00?) | 21845,100,234 | 0,234,0 | 693                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00EB00/00EB00?) | 21845,100,235 | 0,235,0 | 695                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00EC00/00EC00?) | 21845,100,236 | 0,236,0 | 698                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00ED00/00ED00?) | 21845,100,237 | 0,237,0 | 700                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00EE00/00EE00?) | 21845,100,238 | 0,238,0 | 703                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00EF00/00EF00?) | 21845,100,239 | 0,239,0 | 706                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00F000/00F000?) | 21845,100,240 | 0,240,0 | 708                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00F100/00F100?) | 21845,100,241 | 0,241,0 | 711                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00F200/00F200?) | 21845,100,242 | 0,242,0 | 714                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00F300/00F300?) | 21845,100,243 | 0,243,0 | 716                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00F400/00F400?) | 21845,100,244 | 0,244,0 | 719                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00F500/00F500?) | 21845,100,245 | 0,245,0 | 722                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00F600/00F600?) | 21845,100,246 | 0,246,0 | 724                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00F700/00F700?) | 21845,100,247 | 0,247,0 | 727                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00F800/00F800?) | 21845,100,248 | 0,248,0 | 729                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00F900/00F900?) | 21845,100,249 | 0,249,0 | 732                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00FA00/00FA00?) | 21845,100,250 | 0,250,0 | 735                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00FB00/00FB00?) | 21845,100,251 | 0,251,0 | 737                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00FC00/00FC00?) | 21845,100,252 | 0,252,0 | 740                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00FD00/00FD00?) | 21845,100,253 | 0,253,0 | 743                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00FE00/00FE00?) | 21845,100,254 | 0,254,0 | 745                   | 0.5850               |
+| ![image](https://via.placeholder.com/15/00FF00/00FF00?) | 21845,100,255 | 0,255,0 | 751                   | 0.5850               |
 
 
 ### Pure Blue Testing
