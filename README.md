@@ -32,7 +32,7 @@ Ultimately, the strangest finding is that the 1515 LEDs use a non-trivial amount
 After some linear regression of the below data the best formula I've come up with is:
 
 
-**I<sub>consumed</sub> = ((R+G+B)x2.61862) + 0.58108**
+### I<sub>consumed</sub> = ((R+G+B)*2.61862) + 0.58108
 
 Where:
 - `R,G and B` are RGB values of the desired color, in 8 bit integer (so, 0-255)
