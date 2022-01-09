@@ -25,7 +25,9 @@ Talk to your fab house about which feed direction is right for you.
 ## KiCad Library
 I've made a KiCad 5 library that has all of the above features. Hopefully it saves you headaches. [KiCad library](/kicad_library).
 
-I've also included a STEP file that has the correct rotation marks [STEP file](/kicad_library/sk6805-1515.stp) 
+I've also included a STEP file that has the correct rotation marks. [STEP file](/kicad_library/sk6805-1515.stp) 
+
+![](images/kicad-6805-footprint.PNG)
 
 ## LED Current Usage
 This is where I've found the least information about these chips. The spec sheet helpfully says `0.1 Watt`. When you scale this to over 1,000 LEDs this has major impacts on your power supply. I decided to do some testing.
